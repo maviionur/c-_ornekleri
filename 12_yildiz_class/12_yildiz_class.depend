@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1517150905 source:c:\users\samsung-\desktop\akademik biliþim\12_yildiz_class\star.cpp
+	"star.h"
+
+1517149847 c:\users\samsung-\desktop\akademik biliþim\12_yildiz_class\star.h
+	"termcolor.hpp"
+	<iostream>
+
+1517142800 c:\users\samsung-\desktop\akademik biliþim\12_yildiz_class\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1517151838 source:c:\users\samsung-\desktop\akademik biliþim\12_yildiz_class\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"termcolor.hpp"
+	"star.h"
+
+1517368818 source:c:\users\user\desktop\onur\akademik biliþim\12_yildiz_class\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<vector>
+	<windows.h>
+	"termcolor.hpp"
+	"star.h"
+
+1517368820 c:\users\user\desktop\onur\akademik biliþim\12_yildiz_class\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1517368820 c:\users\user\desktop\onur\akademik biliþim\12_yildiz_class\star.h
+	"termcolor.hpp"
+	<iostream>
+
+1517368818 source:c:\users\user\desktop\onur\akademik biliþim\12_yildiz_class\star.cpp
+	"star.h"
+

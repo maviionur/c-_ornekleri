@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1517053487 source:c:\users\samsung-\desktop\akademik biliþim\05_fistclass\main.cpp
+	<iostream>
+	"first.h"
+
+1517054544 c:\users\samsung-\desktop\akademik biliþim\05_fistclass\first.h
+
+1517054513 source:c:\users\samsung-\desktop\akademik biliþim\05_fistclass\first.cpp
+	"first.h"
+	<iostream>
+
+1517368828 source:c:\users\user\desktop\onur\akademik biliþim\05_fistclass\first.cpp
+	"first.h"
+	<iostream>
+
+1517368828 c:\users\user\desktop\onur\akademik biliþim\05_fistclass\first.h
+
+1517368830 source:c:\users\user\desktop\onur\akademik biliþim\05_fistclass\main.cpp
+	<iostream>
+	<conio.h>
+	"first.h"
+

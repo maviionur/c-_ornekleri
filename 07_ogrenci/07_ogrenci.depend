@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1517060867 source:c:\users\samsung-\desktop\akademik biliþim\07_ogrenci\main.cpp
+	<iostream>
+	"ogrenci.h"
+
+1517059108 source:c:\users\samsung-\desktop\akademik biliþim\07_ogrenci\ogrenci.cpp
+	"ogrenci.h"
+
+1517058016 c:\users\samsung-\desktop\akademik biliþim\07_ogrenci\ogrenci.h
+	<iostream>
+

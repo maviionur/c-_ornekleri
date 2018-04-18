@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1517146294 source:c:\users\samsung-\desktop\akademik biliþim\11_yildiz\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"termcolor.hpp"
+
+1517142800 c:\users\samsung-\desktop\akademik biliþim\11_yildiz\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1517368820 source:c:\users\user\desktop\onur\akademik biliþim\11_yildiz\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"termcolor.hpp"
+
+1517368822 c:\users\user\desktop\onur\akademik biliþim\11_yildiz\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+

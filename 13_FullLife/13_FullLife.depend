@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1517304970 source:c:\users\samsung-\desktop\akademik biliþim\13_fulllife\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<time.h>
+	"termcolor.hpp"
+	"varlik.h"
+	"engel.h"
+	"hero.h"
+	"mermi.h"
+	"dusman.h"
+
+1517142800 c:\users\samsung-\desktop\akademik biliþim\13_fulllife\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1517222991 source:c:\users\samsung-\desktop\akademik biliþim\13_fulllife\engel.cpp
+	"engel.h"
+
+1517216290 c:\users\samsung-\desktop\akademik biliþim\13_fulllife\engel.h
+	"varlik.h"
+
+1517217272 c:\users\samsung-\desktop\akademik biliþim\13_fulllife\varlik.h
+	<iostream>
+	"termcolor.hpp"
+
+1517216290 source:c:\users\samsung-\desktop\akademik biliþim\13_fulllife\varlik.cpp
+	"varlik.h"
+
+1517231562 source:c:\users\samsung-\desktop\akademik biliþim\13_fulllife\hero.cpp
+	"hero.h"
+
+1517225988 c:\users\samsung-\desktop\akademik biliþim\13_fulllife\hero.h
+	"varlik.h"
+
+1517235850 source:c:\users\samsung-\desktop\akademik biliþim\13_fulllife\mermi.cpp
+	"mermi.h"
+
+1517235850 c:\users\samsung-\desktop\akademik biliþim\13_fulllife\mermi.h
+	"varlik.h"
+
+1517298330 source:c:\users\samsung-\desktop\akademik biliþim\13_fulllife\dusman.cpp
+	"dusman.h"
+
+1517297777 c:\users\samsung-\desktop\akademik biliþim\13_fulllife\dusman.h
+	"varlik.h"
+
+1517368814 source:c:\users\user\desktop\onur\akademik biliþim\13_fulllife\dusman.cpp
+	"dusman.h"
+
+1517368814 c:\users\user\desktop\onur\akademik biliþim\13_fulllife\dusman.h
+	"varlik.h"
+
+1517368816 c:\users\user\desktop\onur\akademik biliþim\13_fulllife\varlik.h
+	<iostream>
+	"termcolor.hpp"
+
+1517368816 c:\users\user\desktop\onur\akademik biliþim\13_fulllife\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1517368816 source:c:\users\user\desktop\onur\akademik biliþim\13_fulllife\engel.cpp
+	"engel.h"
+
+1517368816 c:\users\user\desktop\onur\akademik biliþim\13_fulllife\engel.h
+	"varlik.h"
+
+1517368816 source:c:\users\user\desktop\onur\akademik biliþim\13_fulllife\hero.cpp
+	"hero.h"
+
+1517368816 c:\users\user\desktop\onur\akademik biliþim\13_fulllife\hero.h
+	"varlik.h"
+
+1517368816 source:c:\users\user\desktop\onur\akademik biliþim\13_fulllife\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<time.h>
+	"termcolor.hpp"
+	"varlik.h"
+	"engel.h"
+	"hero.h"
+	"mermi.h"
+	"dusman.h"
+
+1517368816 c:\users\user\desktop\onur\akademik biliþim\13_fulllife\mermi.h
+	"varlik.h"
+
+1517368816 source:c:\users\user\desktop\onur\akademik biliþim\13_fulllife\mermi.cpp
+	"mermi.h"
+
+1517368816 source:c:\users\user\desktop\onur\akademik biliþim\13_fulllife\varlik.cpp
+	"varlik.h"
+

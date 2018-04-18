@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1517316048 source:c:\users\samsung-\desktop\akademik bilişim\14_araba\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<vector>
+	<windows.h>
+	"termcolor.hpp"
+	"varlik.h"
+	"dolar.h"
+	"araba.h"
+
+1517142800 c:\users\samsung-\desktop\akademik bilişim\14_araba\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1517313469 source:c:\users\samsung-\desktop\akademik bilişim\14_araba\varlik.cpp
+	"varlik.h"
+
+1517313469 c:\users\samsung-\desktop\akademik bilişim\14_araba\varlik.h
+	<iostream>
+
+1517313869 source:c:\users\samsung-\desktop\akademik bilişim\14_araba\dolar.cpp
+	"dolar.h"
+
+1517311551 c:\users\samsung-\desktop\akademik bilişim\14_araba\dolar.h
+	"Varlik.h"
+	"termcolor.hpp"
+
+1517316857 source:c:\users\samsung-\desktop\akademik bilişim\14_araba\araba.cpp
+	"araba.h"
+
+1517315054 c:\users\samsung-\desktop\akademik bilişim\14_araba\araba.h
+	"Varlik.h"
+	"termcolor.hpp"
+
+1517317547 source:c:\users\samsung-\desktop\akademik bilişim\14_araba\engel.cpp
+	"engel.h"
+
+1517317484 c:\users\samsung-\desktop\akademik bilişim\14_araba\engel.h
+	"Varlik.h"
+	"termcolor.hpp"
+
+1517368812 source:c:\users\user\desktop\onur\akademik bilişim\14_araba\araba.cpp
+	"araba.h"
+
+1517368810 c:\users\user\desktop\onur\akademik bilişim\14_araba\araba.h
+	"Varlik.h"
+	"termcolor.hpp"
+
+1517368814 c:\users\user\desktop\onur\akademik bilişim\14_araba\varlik.h
+	<iostream>
+
+1517368814 c:\users\user\desktop\onur\akademik bilişim\14_araba\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1517368812 source:c:\users\user\desktop\onur\akademik bilişim\14_araba\dolar.cpp
+	"dolar.h"
+
+1517368812 c:\users\user\desktop\onur\akademik bilişim\14_araba\dolar.h
+	"Varlik.h"
+	"termcolor.hpp"
+
+1517368812 source:c:\users\user\desktop\onur\akademik bilişim\14_araba\engel.cpp
+	"engel.h"
+
+1517368812 c:\users\user\desktop\onur\akademik bilişim\14_araba\engel.h
+	"Varlik.h"
+	"termcolor.hpp"
+
+1517368814 source:c:\users\user\desktop\onur\akademik bilişim\14_araba\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<vector>
+	<windows.h>
+	"termcolor.hpp"
+	"varlik.h"
+	"dolar.h"
+	"araba.h"
+
+1517368814 source:c:\users\user\desktop\onur\akademik bilişim\14_araba\varlik.cpp
+	"varlik.h"
+

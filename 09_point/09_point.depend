@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1517138350 source:c:\users\samsung-\desktop\akademik bilişim\09_point\main.cpp
+	<iostream>
+	"dandik.h"
+
+1517138566 c:\users\samsung-\desktop\akademik bilişim\09_point\dandik.h
+	<iostream>
+
+1517138564 source:c:\users\samsung-\desktop\akademik bilişim\09_point\dandik.cpp
+	"dandik.h"
+
+1517368826 source:c:\users\user\desktop\onur\akademik bilişim\09_point\dandik.cpp
+	"dandik.h"
+
+1517368826 c:\users\user\desktop\onur\akademik bilişim\09_point\dandik.h
+	<iostream>
+
+1517368826 source:c:\users\user\desktop\onur\akademik bilişim\09_point\main.cpp
+	<iostream>
+	"dandik.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1517120941 source:c:\users\samsung-\desktop\akademik biliþim\08_saat\main.cpp
+	<iostream>
+	"timer.h"
+
+1517065611 c:\users\samsung-\desktop\akademik biliþim\08_saat\timer.h
+	<iostream>
+
+1517120992 source:c:\users\samsung-\desktop\akademik biliþim\08_saat\timer.cpp
+	"timer.h"
+
+1517368826 source:c:\users\user\desktop\onur\akademik biliþim\08_saat\main.cpp
+	<iostream>
+	"timer.h"
+
+1517368826 c:\users\user\desktop\onur\akademik biliþim\08_saat\timer.h
+	<iostream>
+
+1517368826 source:c:\users\user\desktop\onur\akademik biliþim\08_saat\timer.cpp
+	"timer.h"
+
